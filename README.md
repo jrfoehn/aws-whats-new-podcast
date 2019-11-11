@@ -1,4 +1,12 @@
 
+# AWS What's New Podcast
+
+Generate daily mp3 files from the AWS What's New Blog.
+
+TODO:
+- add architecture schema
+- add get account id for unique s3
+
 # Welcome to your CDK Python project!
 
 This is a blank project for Python development with CDK.
@@ -47,7 +55,7 @@ To add additional dependencies, for example other CDK libraries, just add
 them to your `setup.py` file and rerun the `pip install -r requirements.txt`
 command.
 
-# Useful commands
+## Useful commands
 
  * `cdk ls`          list all stacks in the app
  * `cdk synth`       emits the synthesized CloudFormation template
