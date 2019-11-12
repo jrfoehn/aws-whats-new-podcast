@@ -14,7 +14,7 @@ table = dynamodb.Table(os.environ['DYNAMO_DB_TABLE'])
 
 yesterday = (datetime.datetime.now() - datetime.timedelta(1))
 yesterday_str = yesterday.strftime('%Y/%m/%d')
-yesterday_str = "2019/11/08"
+# yesterday_str = "2019/11/08"
 # today = datetime.datetime.now()
 # date = today.strftime("%Y/%m/%d")
 # date = "2019/10/18"
