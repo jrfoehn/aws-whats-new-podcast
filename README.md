@@ -1,11 +1,14 @@
 
 # AWS What's New Podcast
 
-Generate daily mp3 files from the AWS What's New Blog.
+Generates daily mp3 files from the AWS What's New Blog.
+
+![AWS What's New Architecture](architecture.png)
 
 TODO:
-- add architecture schema
-- add get account id for unique s3
+- [x] add architecture schema
+- [ ] add get account id for unique s3
+- [ ] refactor nested stacks
 
 # Welcome to your CDK Python project!
 
